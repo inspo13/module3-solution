@@ -18,7 +18,7 @@ font-style: "oblique";
 
 }
 body{
-background-image: url("avengers.jpeg");
+background-image: url("./avengers.jpeg");
 background-color: white;
 background-size:cover;
 background-repeat: no-repeat;
@@ -39,7 +39,7 @@ border:0;
 }
 
 #logo-img{
-background:url("logo-img.jpg") no-repeat;
+background:url("./logo-img.jpg") no-repeat;
 width: 4em;
 height: 4em;
 margin: 10px 0 10px;
